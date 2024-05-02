@@ -1,0 +1,116 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\elcik\\source\\repos\\25042024MobilProgramlama\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D1A96D03-D592-4D9C-9DE2-40CD9EB5DD01}|25042024MobilProgramlama.csproj|c:\\users\\elcik\\source\\repos\\25042024mobilprogramlama\\activity1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1A96D03-D592-4D9C-9DE2-40CD9EB5DD01}|25042024MobilProgramlama.csproj|solutionrelative:activity1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1A96D03-D592-4D9C-9DE2-40CD9EB5DD01}|25042024MobilProgramlama.csproj|C:\\Users\\elcik\\source\\repos\\25042024MobilProgramlama\\resources\\layout\\activity_main.xml||{A4B51DF8-501B-45AD-A022-1A0D18A2B7B0}",
+      "RelativeMoniker": "D:0:0:{D1A96D03-D592-4D9C-9DE2-40CD9EB5DD01}|25042024MobilProgramlama.csproj|solutionrelative:resources\\layout\\activity_main.xml||{A4B51DF8-501B-45AD-A022-1A0D18A2B7B0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1A96D03-D592-4D9C-9DE2-40CD9EB5DD01}|25042024MobilProgramlama.csproj|C:\\Users\\elcik\\source\\repos\\25042024MobilProgramlama\\mainactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1A96D03-D592-4D9C-9DE2-40CD9EB5DD01}|25042024MobilProgramlama.csproj|solutionrelative:mainactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1A96D03-D592-4D9C-9DE2-40CD9EB5DD01}|25042024MobilProgramlama.csproj|C:\\Users\\elcik\\source\\repos\\25042024MobilProgramlama\\resources\\layout\\layout1.xml||{A4B51DF8-501B-45AD-A022-1A0D18A2B7B0}",
+      "RelativeMoniker": "D:0:0:{D1A96D03-D592-4D9C-9DE2-40CD9EB5DD01}|25042024MobilProgramlama.csproj|solutionrelative:resources\\layout\\layout1.xml||{A4B51DF8-501B-45AD-A022-1A0D18A2B7B0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1A96D03-D592-4D9C-9DE2-40CD9EB5DD01}|25042024MobilProgramlama.csproj|C:\\Users\\elcik\\source\\repos\\25042024MobilProgramlama\\activity2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1A96D03-D592-4D9C-9DE2-40CD9EB5DD01}|25042024MobilProgramlama.csproj|solutionrelative:activity2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1A96D03-D592-4D9C-9DE2-40CD9EB5DD01}|25042024MobilProgramlama.csproj|C:\\Users\\elcik\\source\\repos\\25042024MobilProgramlama\\resources\\layout\\layout2.xml||{A4B51DF8-501B-45AD-A022-1A0D18A2B7B0}",
+      "RelativeMoniker": "D:0:0:{D1A96D03-D592-4D9C-9DE2-40CD9EB5DD01}|25042024MobilProgramlama.csproj|solutionrelative:resources\\layout\\layout2.xml||{A4B51DF8-501B-45AD-A022-1A0D18A2B7B0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "layout2.xml",
+              "DocumentMoniker": "C:\\Users\\elcik\\source\\repos\\25042024MobilProgramlama\\Resources\\layout\\layout2.xml",
+              "RelativeDocumentMoniker": "Resources\\layout\\layout2.xml",
+              "ToolTip": "C:\\Users\\elcik\\source\\repos\\25042024MobilProgramlama\\Resources\\layout\\layout2.xml",
+              "RelativeToolTip": "Resources\\layout\\layout2.xml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2024-04-25T11:33:47.471Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Activity2.cs",
+              "DocumentMoniker": "C:\\Users\\elcik\\source\\repos\\25042024MobilProgramlama\\Activity2.cs",
+              "RelativeDocumentMoniker": "Activity2.cs",
+              "ToolTip": "C:\\Users\\elcik\\source\\repos\\25042024MobilProgramlama\\Activity2.cs",
+              "RelativeToolTip": "Activity2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T11:33:02.357Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "layout1.xml",
+              "DocumentMoniker": "C:\\Users\\elcik\\source\\repos\\25042024MobilProgramlama\\Resources\\layout\\layout1.xml",
+              "RelativeDocumentMoniker": "Resources\\layout\\layout1.xml",
+              "ToolTip": "C:\\Users\\elcik\\source\\repos\\25042024MobilProgramlama\\Resources\\layout\\layout1.xml",
+              "RelativeToolTip": "Resources\\layout\\layout1.xml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2024-04-25T10:56:25.509Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Activity1.cs",
+              "DocumentMoniker": "C:\\Users\\elcik\\source\\repos\\25042024MobilProgramlama\\Activity1.cs",
+              "RelativeDocumentMoniker": "Activity1.cs",
+              "ToolTip": "C:\\Users\\elcik\\source\\repos\\25042024MobilProgramlama\\Activity1.cs",
+              "RelativeToolTip": "Activity1.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAQwBQAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T10:10:35.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "activity_main.xml",
+              "DocumentMoniker": "C:\\Users\\elcik\\source\\repos\\25042024MobilProgramlama\\Resources\\layout\\activity_main.xml",
+              "RelativeDocumentMoniker": "Resources\\layout\\activity_main.xml",
+              "ToolTip": "C:\\Users\\elcik\\source\\repos\\25042024MobilProgramlama\\Resources\\layout\\activity_main.xml",
+              "RelativeToolTip": "Resources\\layout\\activity_main.xml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2024-04-25T10:56:23.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainActivity.cs",
+              "DocumentMoniker": "C:\\Users\\elcik\\source\\repos\\25042024MobilProgramlama\\MainActivity.cs",
+              "RelativeDocumentMoniker": "MainActivity.cs",
+              "ToolTip": "C:\\Users\\elcik\\source\\repos\\25042024MobilProgramlama\\MainActivity.cs",
+              "RelativeToolTip": "MainActivity.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAA+wBsAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T10:02:26.22Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

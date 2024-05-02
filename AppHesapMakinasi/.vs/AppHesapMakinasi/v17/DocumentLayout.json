@@ -1,0 +1,76 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\elcik\\source\\repos\\AppHesapMakinasi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BEA3C4FC-66C3-4CA0-BD62-1AC2B21E3DE6}|AppHesapMakinasi.csproj|C:\\Users\\elcik\\source\\repos\\AppHesapMakinasi\\resources\\layout\\activity_main.xml||{A4B51DF8-501B-45AD-A022-1A0D18A2B7B0}",
+      "RelativeMoniker": "D:0:0:{BEA3C4FC-66C3-4CA0-BD62-1AC2B21E3DE6}|AppHesapMakinasi.csproj|solutionrelative:resources\\layout\\activity_main.xml||{A4B51DF8-501B-45AD-A022-1A0D18A2B7B0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEA3C4FC-66C3-4CA0-BD62-1AC2B21E3DE6}|AppHesapMakinasi.csproj|c:\\users\\elcik\\source\\repos\\apphesapmakinasi\\resources\\layout\\activity_main.xml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{BEA3C4FC-66C3-4CA0-BD62-1AC2B21E3DE6}|AppHesapMakinasi.csproj|solutionrelative:resources\\layout\\activity_main.xml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEA3C4FC-66C3-4CA0-BD62-1AC2B21E3DE6}|AppHesapMakinasi.csproj|c:\\users\\elcik\\source\\repos\\apphesapmakinasi\\mainactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEA3C4FC-66C3-4CA0-BD62-1AC2B21E3DE6}|AppHesapMakinasi.csproj|solutionrelative:mainactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "activity_main.xml",
+              "DocumentMoniker": "C:\\Users\\elcik\\source\\repos\\AppHesapMakinasi\\Resources\\layout\\activity_main.xml",
+              "RelativeDocumentMoniker": "Resources\\layout\\activity_main.xml",
+              "ToolTip": "C:\\Users\\elcik\\source\\repos\\AppHesapMakinasi\\Resources\\layout\\activity_main.xml",
+              "RelativeToolTip": "Resources\\layout\\activity_main.xml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2024-03-07T11:10:05.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainActivity.cs",
+              "DocumentMoniker": "C:\\Users\\elcik\\source\\repos\\AppHesapMakinasi\\MainActivity.cs",
+              "RelativeDocumentMoniker": "MainActivity.cs",
+              "ToolTip": "C:\\Users\\elcik\\source\\repos\\AppHesapMakinasi\\MainActivity.cs",
+              "RelativeToolTip": "MainActivity.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwCoAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T11:09:48.224Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "activity_main.xml",
+              "DocumentMoniker": "C:\\Users\\elcik\\source\\repos\\AppHesapMakinasi\\Resources\\layout\\activity_main.xml",
+              "RelativeDocumentMoniker": "Resources\\layout\\activity_main.xml",
+              "ToolTip": "C:\\Users\\elcik\\source\\repos\\AppHesapMakinasi\\Resources\\layout\\activity_main.xml",
+              "RelativeToolTip": "Resources\\layout\\activity_main.xml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2024-03-13T22:46:00.647Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
